@@ -1,0 +1,29 @@
+{
+  "name": "odin_dropdown",
+  "version": "2.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/prathapmohan27/odin_dropdown.git"
+  },
+  "keywords": [
+    "dropdown",
+    "dropdown menu",
+    "drop down"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/prathapmohan27/odin_dropdown/issues"
+  },
+  "homepage": "https://github.com/prathapmohan27/odin_dropdown#readme",
+  "devDependencies": {
+    "eslint": "^8.6.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-plugin-import": "^2.25.3"
+  }
+}
